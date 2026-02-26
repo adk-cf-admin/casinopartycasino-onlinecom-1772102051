@@ -1,0 +1,19 @@
+{
+  "name": "PartyCasino",
+  "short_name": "PartyCasino",
+  "theme_color": "",
+  "background_color": "#211551",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1772100868-568061e9d6774554b91a79f4c5b911c7.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

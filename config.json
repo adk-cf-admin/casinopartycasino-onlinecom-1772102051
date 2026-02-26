@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#211551",
+            "lang-select-color": "#222829",
+            "bg-light": "#0D0431",
+            "welcome-bonus-bg": "#e4e4e4",
+            "top-games-hover-fg": "#000000",
+            "main-bg": "#ffffff",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#472eaf",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#472eaf",
+            "yellow-button": "#F00A47",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#e4e4e4",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "providers-back": "#e4e4e4",
+            "faq-label": "#e4e4e4",
+            "bg-footer": "#211551",
+            "copyright": "#e7e7d5",
+            "starColor": "#F00A47",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3566"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3567",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "PartyCasino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3568",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "PartyCasino"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-ca-en-CA",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "CA",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "PartyCasino",
+                    "title": "PartyCasino — Best Online Casino Canada | C$2,000 Bonus",
+                    "description": "Play at PartyCasino Canada with 1,000+ licensed slots, live dealers & C$2,000 welcome bonus + 275 free spins. Trusted iGaming Ontario operator. Join now!\n",
+                    "canonical": "casinopartycasino-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3569",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casinopartycasino-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3570"
+                },
+                "hero": {
+                    "title": "Canada's Premier Online Casino & Gaming Platform",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3571",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3572",
+                    "mobileImageSizeModifier": -5,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a trusted online casino in Canada? We hold a valid iGaming Ontario licence, offer SSL 256-bit encrypted transactions, and provide 24\/7 English-speaking support. Here's what sets us apart for Canadian players:\n",
+                    "items": [
+                        "Licensed by iGaming Ontario & Kahnawake — certified safe for Canadian players",
+                        "1,000+ games from NetEnt, Microgaming, Playtech & Evolution Gaming",
+                        "Welcome bonus: 100% up to C$2,000 + 275 free spins across 4 deposits",
+                        "Instant CAD deposits via Interac, Visa, Mastercard, PayPal & Skrill",
+                        "SSL 256-bit encryption protecting 100% of transactions & player data",
+                        "24\/7 customer support in English via live chat, email & phone"
+                    ],
+                    "advantagesAfterText": "Join over 500,000 Canadian players enjoying RNG-certified fair games audited by independent labs. Our English-speaking support team is ready to assist you 24\/7, every day of the year.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "PartyCasino App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3573",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "PartyCasino App",
+                    "mobileGooglePlayImageTitle": "PartyCasino App",
+                    "mobileIosImageTitle": "PartyCasino App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About PartyCasino Canada",
+                        "description1": "We've been powering premium online gaming for Canadian players for over two decades as part of Entain plc, one of the world's leading iGaming groups. Licensed and certified, we offer 1,000+ games with CAD support.\n",
+                        "items": [
+                            "Launched as Starluck Casino, now part of Entain plc",
+                            "Expanded to 1,000+ games from 45+ certified providers",
+                            "Achieved iGaming Ontario licence for regulated Canadian play",
+                            "Partnered with Evolution Gaming for HD live dealer studios"
+                        ],
+                        "description2": "We operate under iGaming Ontario regulations with RNG-certified games by independent auditors. Our platform uses SSL 256-bit encryption on all CAD transactions, keeping every Canadian player's data fully protected.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3574",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We continue expanding our game library and exclusive promotions for Canadian players. Our responsible gaming tools, including deposit limits and self-exclusion, remain a top priority. Join us and experience premium gaming today!\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Complete Game Portfolio for Canadian Players",
+                        "description": "<h2>Complete Game Portfolio for Canadian Players<\/h2>\n\n<p>At PartyCasino Canada, we pride ourselves on offering one of the most comprehensive gaming libraries available to Canadian players, featuring over 1,000 certified titles spanning every category imaginable. Our gaming platform is powered by an elite roster of software studios, including NetEnt, Microgaming, Playtech, and Evolution Gaming — names that Canadian iGaming enthusiasts trust for fairness, innovation, and entertainment. Every single game in our collection is independently tested for RNG integrity, ensuring that every spin, deal, and roll delivers genuinely random outcomes. Whether you prefer spinning the reels on your morning commute via mobile or settling in for an extended live dealer session at home, our gaming hub is optimized for every device and every playing style.<\/p>\n\n<h3>Online Slots — Canada's Favourite Casino Game<\/h3>\n\n<p>Canadian players consistently rank online slots as their top choice, and we've built our slots collection to exceed every expectation. Our library includes classic three-reel fruit machines for nostalgic enjoyment, modern video slots with immersive storylines, and high-volatility options for thrill-seekers chasing life-changing wins. We work with studios like NetEnt, Pragmatic Play, and Playtech to bring you exclusive titles that you won't find at other Canadian casino sites. Looking for a slot with a great return-to-player rate? Many of our featured titles boast RTPs of 96% or higher, including fan favourites like Book of Dead (96.21%), Starburst (96.09%), and Gates of Olympus (96.5%).<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Classic Slots:<\/strong> Three-reel machines with traditional symbols — cherries, bars, and 7s. Perfect for Canadian players who appreciate straightforward gameplay with reliable win patterns and betting ranges from C$0.10 to C$50 per spin.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Video Slots:<\/strong> Feature-rich games with 5 reels, multiple paylines (up to 1,024 ways to win), bonus rounds, cascading reels, and free spin mechanics. Titles like Gonzo's Quest (NetEnt, 96% RTP) and Wolf Gold (Pragmatic Play, 96.01% RTP) are Canadian player favourites.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Lightning Slots:<\/strong> Our exclusive fast-paced collection with special in-game mechanics, multiplier features, and accelerated bonus triggers — designed for players who crave high-energy sessions with frequent win opportunities.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Themed Slots:<\/strong> Journey to ancient Egypt, explore Norse mythology, or join a heist in downtown Toronto. Our themed collection covers every interest, bringing cinematic-quality graphics and sound design from top studios directly to Canadian screens.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Exclusive PartyCasino Slots:<\/strong> Titles developed exclusively for our platform — available nowhere else in Canada. These games feature unique mechanics, special bonus features, and loyalty-boosting in-game rewards unavailable at competing Canadian gaming sites.<\/li>\n<\/ul>\n\n<h3>Progressive Jackpot Games — Canada's Biggest Wins<\/h3>\n\n<p>Want to know how Canadian players win seven-figure prizes from a single spin? Progressive jackpot slots are the answer. Every time a Canadian or international player wagers on a linked progressive network, a percentage feeds into an ever-growing prize pool. Our progressive jackpot collection includes some of the most celebrated titles in the iGaming world, with jackpots that regularly climb into the millions of Canadian dollars. These games are ideal for players who want the combination of entertaining gameplay and the potential for a truly transformative payout.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Mega Moolah (Microgaming):<\/strong> The legendary progressive slot that has paid out over $1 billion CAD globally. With a Wheel of Fortune bonus game, four jackpot tiers (Mini, Minor, Major, Mega), and a minimum guaranteed Mega Jackpot of $1,000,000 CAD, this is must-play territory for every Canadian jackpot hunter.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Age of the Gods (Playtech):<\/strong> A mythological-themed series with four interlinked progressive jackpots. The Power Jackpot tier regularly exceeds C$250,000, and the bonus jackpot wheel can trigger randomly on any spin regardless of bet size.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Hall of Gods (NetEnt):<\/strong> Norse mythology meets massive jackpots in this acclaimed progressive slot with three jackpot levels. The Mega Jackpot tier has exceeded C$8 million in past payouts, making it one of the most exciting titles available to Canadian players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Daily Jackpots:<\/strong> Our platform also features daily-drop jackpot games that must pay out before a set time each day — giving Canadian players consistent winning opportunities without waiting for a massive progressive to hit.<\/li>\n<\/ul>\n\n<h3>Table Games — Strategy Meets Entertainment<\/h3>\n\n<p>For Canadian players who prefer skill-based gambling experiences, our table games section delivers the full casino experience with optimal betting ranges, multiple rule variants, and certified fair play on every hand and spin. We offer blackjack, roulette, baccarat, poker, and more — each available in multiple variants to suit different strategies and bankroll sizes. All our table games use certified RNG software, independently tested by iTech Labs, ensuring that every deal is genuinely random and unbiased.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Blackjack:<\/strong> Multiple variants including Classic Blackjack (RTP 99.5%), Perfect Pairs, European Blackjack, and Atlantic City Blackjack. Betting limits range from C$1 to C$500 per hand, accommodating both casual Canadian recreational players and high-rollers alike.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Roulette:<\/strong> European Roulette (RTP 97.3%, single zero), American Roulette (double zero for extra excitement), and French Roulette with La Partage rule that returns 50% of even-money bets on zero — improving the effective RTP to 98.65% for Canadian players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Baccarat:<\/strong> Classic Baccarat (RTP 98.94% on Banker bet), Mini Baccarat for faster gameplay, and Punto Banco variants with side bets including Dragon Bonus and Player Pair. Minimum bets from C$1 make it accessible to all Canadian players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Video Poker:<\/strong> Jacks or Better (99.54% RTP with perfect strategy), Deuces Wild, Double Bonus Poker, and Multi-Hand variants allowing up to 100 simultaneous hands. These games offer some of the best RTPs available on our entire Canadian gaming platform.<\/li>\n<\/ul>\n\n<h3>RTP Overview for Canadian Players<\/h3>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #ef284b;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Game<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">RTP<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Type<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #0f0b22;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Video Poker (JoB)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">99.54%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Table<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1338;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">99.5%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Table<\/td>\n    <\/tr>\n    <tr style=\"background-color: #0f0b22;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>French Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">98.65%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Table<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1338;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">98.94%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Table<\/td>\n    <\/tr>\n    <tr style=\"background-color: #0f0b22;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>European Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">97.3%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Table<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1338;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Gates of Olympus<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">96.5%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Slots<\/td>\n    <\/tr>\n    <tr style=\"background-color: #0f0b22;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Book of Dead<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">96.21%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Slots<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1338;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Starburst<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">96.09%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Slots<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>PartyCasino Live Casino — Real Dealers for Canadian Players<\/h3>\n\n<p>Why play against software when you can face a real dealer? Our live casino section brings the authentic casino floor experience directly to Canadian homes, featuring HD video streams from professional studios powered by Evolution Gaming and Pragmatic Play Live. Canadian players can chat with friendly English-speaking croupiers in real time, enjoy multiple camera angles, and experience the atmosphere of a world-class casino — all without leaving Ontario or any other Canadian province. Our live casino operates around the clock, meaning you can join a live blackjack table at 3am EST just as easily as during peak Canadian evening hours.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Blackjack:<\/strong> Classic Live Blackjack, Infinite Blackjack (unlimited seats, perfect for Canadian peak hours), Lightning Blackjack with random multipliers up to 25x, and VIP Blackjack tables with limits up to C$5,000 per hand. All tables feature English-speaking professional dealers and side bets including Perfect Pairs and 21+3.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Roulette:<\/strong> European Live Roulette (RTP 97.3%), Immersive Roulette with slow-motion ball tracking, Lightning Roulette with multipliers up to 500x on straight-up bets, and Speed Roulette for fast-paced action. Betting limits range from C$0.20 to C$10,000 per round.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Baccarat:<\/strong> Standard Live Baccarat, Speed Baccarat completing rounds in under 30 seconds, Baccarat Squeeze for added suspense, and No Commission Baccarat. Multiple camera angles and English commentary make every hand engaging for Canadian players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Game Shows:<\/strong> Crazy Time (bonus wheel with multipliers up to 20,000x), Monopoly Live combining board game nostalgia with real money prizes, Mega Ball with lottery-style excitement, and Dream Catcher money wheel. These interactive experiences blend TV entertainment formats with genuine winning opportunities.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Poker:<\/strong> Three Card Poker, Casino Hold'em (RTP 97.84%), Caribbean Stud Poker with a progressive jackpot, and Ultimate Texas Hold'em. Canadian players can practice basic strategies while enjoying the live social experience with professional dealers.<\/li>\n<\/ul>\n\n<h3>Mobile Gaming — Play Anywhere in Canada<\/h3>\n\n<p>Canadian players lead busy lives, and our mobile-optimized platform ensures you never miss a gaming session regardless of where you are in Canada. Our entire game library — slots, table games, and live casino — loads instantly on smartphones and tablets without any downloads required. Whether you're on iOS or Android, our responsive design adapts perfectly to screens of all sizes, from compact phones to large tablets. Mobile players enjoy the same bonuses, same CAD payment methods, and same 24\/7 English support as desktop users — with no compromise in game quality or security.<\/p>\n\n<h3>Exclusive Games — Only at PartyCasino<\/h3>\n\n<p>We collaborate directly with the industry's most innovative developers to create titles exclusive to our Canadian gaming platform. These exclusive games feature unique mechanics, bonus structures, and themes developed specifically for our player community. You won't find these titles at any other Canadian online casino — they exist solely to reward our loyal members with fresh, one-of-a-kind experiences that aren't available anywhere else on the internet. Our exclusive catalogue grows regularly, with new releases dropping each month to keep the experience fresh and exciting for all Canadian players.<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Banking & Bonuses for Canadian Players",
+                        "description": "<h2>Banking & Bonuses for Canadian Players<\/h2>\n\n<p>At PartyCasino Canada, we understand that seamless, fast, and secure financial transactions are just as important as great games. That's why we've assembled the most comprehensive suite of CAD-friendly payment methods available at any Canadian online casino, paired with one of the most generous bonus structures in the iGaming Ontario market. Every deposit and withdrawal on our platform is processed under SSL 256-bit encryption, and our payment infrastructure is PCI-DSS Level 1 compliant — the same security standard used by major Canadian banks. Whether you prefer the instant convenience of Interac e-Transfer or the privacy of a prepaid option, we have the right banking solution for every Canadian player.<\/p>\n\n<h3>Deposit Methods for Canadian Players<\/h3>\n\n<p>Funding your PartyCasino account is fast, simple, and fee-free. We accept all major payment methods preferred by Canadian players, with a minimum deposit of just C$10 to get started. Interac e-Transfer is our most popular option among Canadian players — it connects directly to your Canadian bank account with instant processing and zero fees. For players who prefer card payments, Visa and Mastercard deposits are credited instantly. E-wallets including PayPal, Skrill, and Neteller offer an extra layer of privacy between your bank and our gaming platform, with deposit speeds of under 30 seconds.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Interac e-Transfer:<\/strong> Canada's most trusted payment network — instant deposits, zero fees, and full CAD support. Available at all major Canadian banks including RBC, TD, Scotiabank, BMO, and CIBC. Minimum deposit C$10, maximum C$30,000 per transaction.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Visa \/ Mastercard:<\/strong> Instant deposits from any Canadian Visa or Mastercard debit or credit card. Widely accepted across all provinces including Ontario, British Columbia, Quebec, and Alberta. Minimum deposit C$10.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>PayPal:<\/strong> One of Canada's most trusted e-wallets, offering instant deposits and same-day withdrawals. Your bank details remain private, with only your PayPal account linked to PartyCasino. Ideal for Canadian players prioritizing privacy and speed.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Skrill & Neteller:<\/strong> Premium e-wallet options with dedicated VIP programs for high-volume Canadian players. Both support CAD accounts with instant deposit processing. Withdrawal times average 24–48 hours once verified.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>PaysafeCard:<\/strong> Prepaid voucher option for Canadian players who prefer not to use bank accounts or cards online. Available at thousands of retail locations across Canada including convenience stores, pharmacies, and supermarkets. Perfect for budget-conscious players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>ACH \/ Bank Transfer:<\/strong> Direct bank-to-bank transfers for larger CAD transactions. Processing takes 1–2 business days for deposits and 3–5 business days for withdrawals. Ideal for high-rollers managing significant bankrolls on our Canadian gaming platform.<\/li>\n<\/ul>\n\n<h3>Payment Methods Overview<\/h3>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #ef284b;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Deposit<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Withdrawal<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #0f0b22;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Interac<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">24–48 hrs<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1338;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>PayPal<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Same day<\/td>\n    <\/tr>\n    <tr style=\"background-color: #0f0b22;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Visa\/MC<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">1–3 days<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1338;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Skrill<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">24–48 hrs<\/td>\n    <\/tr>\n    <tr style=\"background-color: #0f0b22;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Neteller<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">24–48 hrs<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1338;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>PaysafeCard<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Via Play+<\/td>\n    <\/tr>\n    <tr style=\"background-color: #0f0b22;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Bank Transfer<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">1–2 days<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">3–5 days<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<h3>Welcome Bonus — Best Offer for New Canadian Players<\/h3>\n\n<p>How do you claim the best welcome bonus available at a Canadian online casino in 2026? Simply register your PartyCasino account, make your first deposit of minimum C$10, and our system automatically credits your 100% match bonus up to C$1,000 plus 50 free spins on Big Bass Bonanza. Our welcome package extends across your first four deposits, giving you the opportunity to earn a total of C$2,000 in bonus funds plus 275 free spins — one of the most competitive welcome offers in the entire Ontario iGaming market. The bonus wagering requirement is just 20x (bonus + deposit), significantly lower than the industry standard of 30–35x, making it genuinely achievable for the average Canadian player.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Deposit 1:<\/strong> 100% match up to C$1,000 + 50 free spins on Big Bass Bonanza. Minimum qualifying deposit: C$10. Wagering: 20x (B+D).<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Deposit 2:<\/strong> Bonus match up to C$400 + 75 free spins on featured slots. Building on your initial welcome package with additional CAD credits.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Deposit 3:<\/strong> Bonus match up to C$300 + 75 free spins. By this stage Canadian players have accumulated a substantial bankroll boost for extended gaming sessions.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Deposit 4:<\/strong> Final welcome stage up to C$300 + 75 free spins, completing the full C$2,000 + 275 free spins package — the most generous welcome structure currently available in Ontario's regulated iGaming market.<\/li>\n<\/ul>\n\n<h3>Ongoing Promotions for Canadian Players<\/h3>\n\n<p>Our commitment to Canadian players doesn't end after the welcome bonus. We run a full calendar of regular and seasonal promotions designed specifically for the Canadian market, ensuring there's always something new to claim whether you're a slots enthusiast, table game strategist, or live casino devotee. From weekly cashback programs to exclusive tournament prize pools, our ongoing promotions consistently reward loyal Canadian members with additional value on every session.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Party Prizes Mega Wheel:<\/strong> Wager at least C$10 on casino games daily and spin our exclusive Mega Wheel for chances to win up to C$100 in bonus cash, free spins on popular slots, or table game rounds. This daily promotion keeps the excitement going for every active Canadian player.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Daily Party Prizes:<\/strong> Up to C$100 + 5 free spins awarded daily to qualifying players. Simple participation requirements mean that virtually every Canadian player on our platform can take advantage of this recurring reward.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>The Voyage Tournament:<\/strong> Our flagship weekly competition with a prize pool exceeding C$3,000. Rank among the top Canadian wagerers of the week and earn prizes ranging from C$1 to C$1,000. If you break into the top 10,000 players, you're guaranteed a prize.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Cashback Sundays:<\/strong> Receive up to 20% cashback on net losses every Sunday — a safety net that makes weekend gaming sessions more comfortable for Canadian players of all bankroll levels.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Seasonal Canadian Promotions:<\/strong> Special offers tied to Canadian events including Canada Day, Thanksgiving, and NHL playoff season. Our marketing team creates exclusive bonuses and tournament events around moments that matter most to Canadian players.<\/li>\n<\/ul>\n\n<h3>Responsible Gaming Tools for Canadian Players<\/h3>\n\n<p>We believe that gaming should always be fun, never stressful. As a licensed iGaming Ontario operator, we are legally required — and genuinely committed — to providing every Canadian player with the tools needed to maintain full control over their gambling activity. Our responsible gaming suite includes deposit limits (daily, weekly, and monthly), loss limits, session time reminders, cooling-off periods, and permanent self-exclusion. Canadian players can also access links to organizations like ConnexOntario (1-866-531-2600) and the Responsible Gambling Council directly through our platform. We also participate in the GameSense programme, delivering practical responsible gambling information through an evidence-based approach tailored to the Canadian gaming environment. Your well-being always comes first at our Canadian gaming platform.<\/p>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Is PartyCasino legal and safe for Canadian players?",
+                            "answer": "Yes, PartyCasino is fully legal and safe for Canadian players. We operate under an iGaming Ontario licence, regulated by the Alcohol and Gaming Commission of Ontario (AGCO). All games are RNG-certified by independent auditors. SSL 256-bit encryption protects 100% of your transactions and personal data. Canadian players enjoy complete regulatory protection and fair play guarantees.\n"
+                        },
+                        {
+                            "title": "How do I claim my welcome bonus at PartyCasino Canada?",
+                            "answer": "Register your account, verify your email, and make your first deposit of at least C$10. Your 100% bonus up to C$1,000 plus 50 free spins on Big Bass Bonanza credits automatically within minutes. The wagering requirement is 20x (bonus + deposit), valid for 30 days. Our full package covers 4 deposits totalling C$2,000 + 275 free spins.\n"
+                        },
+                        {
+                            "title": "What payment methods does PartyCasino accept in Canada?",
+                            "answer": "We accept all major Canadian payment methods including Interac e-Transfer, Visa, Mastercard, PayPal, Skrill, Neteller, PaysafeCard, and ACH bank transfers. All transactions are processed in CAD with no conversion fees. Interac is the fastest option with instant deposits and 24-hour withdrawals. Minimum deposit is just C$10.\n"
+                        },
+                        {
+                            "title": "How long do withdrawals take at PartyCasino Canada?",
+                            "answer": "Withdrawal times vary by method. PayPal processes same-day, Interac and Skrill take 24–48 hours, while bank transfers take 3–5 business days. To ensure fast processing, complete your KYC identity verification in advance by uploading a valid Canadian government-issued ID and proof of address. Verified accounts receive priority processing on all withdrawals.\n"
+                        },
+                        {
+                            "title": "Can I play PartyCasino games on my mobile phone in Canada?",
+                            "answer": "Absolutely — our entire game library is fully optimized for mobile play. No app download is required; simply visit our site on any iOS or Android device and all 1,000+ games load instantly in your browser. Mobile players enjoy the same CAD payment methods, bonuses, and 24\/7 English customer support as desktop users, with no reduction in game quality or security.\n"
+                        },
+                        {
+                            "title": "Does PartyCasino offer live dealer games for Canadians?",
+                            "answer": "Yes, our live casino section features dozens of real-dealer tables powered by Evolution Gaming and Pragmatic Play Live, streamed in HD around the clock. Canadian players can enjoy live blackjack, live roulette, live baccarat, live poker, and interactive game shows like Crazy Time and Monopoly Live. English-speaking dealers are available 24\/7, including during peak Canadian evening hours.\n"
+                        },
+                        {
+                            "title": "What responsible gaming tools does PartyCasino provide?",
+                            "answer": "We provide a full responsible gaming toolkit including daily, weekly, and monthly deposit limits, loss limits, session time reminders, cooling-off periods, and permanent self-exclusion. As an iGaming Ontario licensed operator, we participate in the GameSense programme and provide direct links to ConnexOntario (1-866-531-2600) and the Responsible Gambling Council for Canadian players needing support.\n"
+                        },
+                        {
+                            "title": "What documents do I need to verify my PartyCasino account?",
+                            "answer": "Account verification requires a valid Canadian government-issued photo ID (driver's licence or passport), proof of address dated within 90 days (utility bill or bank statement), and proof of payment method (card photo or e-wallet screenshot). Upload documents through your account dashboard. Verification typically completes within 24–72 hours per iGaming Ontario regulatory requirements.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
